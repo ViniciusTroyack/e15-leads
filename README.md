@@ -1,6 +1,6 @@
 # API CRUD de Leads em Python
 
-Este documento descreve uma API simples para realizar operações CRUD (Create, Read, Update, Delete) em registros de leads. A API é construída utilizando o framework Flask e SQLAlchemy para interagir com um banco de dados PostgreSQL. Além disso, fornecerei instruções sobre como clonar o repositório no Git e testar a API.
+Essa é uma API simples para realizar operações CRUD (Create, Read, Update, Delete) em registros de leads. A API é construída utilizando o framework Flask e SQLAlchemy para interagir com um banco de dados PostgreSQL. Além disso, fornecerei instruções sobre como clonar o repositório no Git e testar a API.
 
 ## Configuração
 
